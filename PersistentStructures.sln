@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistentStructures.Types", "PersistentStructures.Types\PersistentStructures.Types.csproj", "{A0B59751-DA67-42E2-B22E-F8B3577B95BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{BB1EC5AA-8041-4333-BF91-227803BF02C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,10 @@ Global
 		{A0B59751-DA67-42E2-B22E-F8B3577B95BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0B59751-DA67-42E2-B22E-F8B3577B95BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0B59751-DA67-42E2-B22E-F8B3577B95BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1EC5AA-8041-4333-BF91-227803BF02C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1EC5AA-8041-4333-BF91-227803BF02C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1EC5AA-8041-4333-BF91-227803BF02C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1EC5AA-8041-4333-BF91-227803BF02C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

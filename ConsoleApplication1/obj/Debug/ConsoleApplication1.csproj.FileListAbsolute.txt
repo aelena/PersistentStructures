@@ -1,0 +1,8 @@
+C:\Projects\PersistentStructures\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Projects\PersistentStructures\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Projects\PersistentStructures\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Projects\PersistentStructures\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Projects\PersistentStructures\ConsoleApplication1\bin\Debug\PersistentStructures.Types.dll
+C:\Projects\PersistentStructures\ConsoleApplication1\bin\Debug\PersistentStructures.Types.pdb
+C:\Projects\PersistentStructures\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Projects\PersistentStructures\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

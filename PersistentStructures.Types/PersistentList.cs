@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PersistentStructures.Types
 {
-    class PersistentList<T>
+    public class PersistentList<T>
     {
 
         private List<Node<T>> __list = new List<Node<T>>();
@@ -45,7 +45,7 @@ namespace PersistentStructures.Types
             int c = 0;
             foreach (T t in list)
             {
-                Node<T> n = new Node<T>(t);
+                var n = new Node<T>(t);
                 n.Index = c;
                 __list.Add(n);
                 if (c == 0)
@@ -53,8 +53,8 @@ namespace PersistentStructures.Types
                     ++c;
                     continue;
                 }
-                n.Parent = __list1;
-                __list1.Next = n;
+                n.Parent = __list[c - 1];
+                __list[c - 1].Next = n;
                 ++c;
             }
         }

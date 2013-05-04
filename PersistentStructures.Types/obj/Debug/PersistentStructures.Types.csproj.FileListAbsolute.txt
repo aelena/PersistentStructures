@@ -1,1 +1,5 @@
 C:\Projects\PersistentStructures\PersistentStructures.Types\obj\Debug\PersistentStructures.Types.csprojResolveAssemblyReference.cache
+C:\Projects\PersistentStructures\PersistentStructures.Types\bin\Debug\PersistentStructures.Types.dll
+C:\Projects\PersistentStructures\PersistentStructures.Types\bin\Debug\PersistentStructures.Types.pdb
+C:\Projects\PersistentStructures\PersistentStructures.Types\obj\Debug\PersistentStructures.Types.dll
+C:\Projects\PersistentStructures\PersistentStructures.Types\obj\Debug\PersistentStructures.Types.pdb
